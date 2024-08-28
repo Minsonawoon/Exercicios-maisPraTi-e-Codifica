@@ -1,2 +1,2 @@
-# Exercicios maisPraTi e Codifica
+# Exercicios +praTi e Codifica
  Exercícios de lógica de programação com Javascript
